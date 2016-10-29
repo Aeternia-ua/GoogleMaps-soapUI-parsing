@@ -234,24 +234,6 @@
 	 {"source": "Sound Stocks", "target": "Звук"},
 		{"source": "AudioMaps", "target": "Sound Stocks"},
 		
-	{"source": "Дані", "target": "Мультимедійна історія"},
-	{"source": "Інфографіка", "target": "Дані"},
-		{"source": "анімована мапа", "target": "Інфографіка"},
-		{"source": "хроніки", "target": "Інфографіка"},
-		{"source": "відео-інфографіка", "target": "Інфографіка"},
-			{"source": "motion-інфографіка", "target": "відео-інфографіка"},
-		{"source": "графіки", "target": "Інфографіка"},
-		{"source": "рейтинги", "target": "Інфографіка"},
-		
-		{"source": "слайд-шоу", "target": "Інфографіка"},
-		{"source": "mini and mobile vizualization", "target": "Інфографіка"},
-		{"source": "Інтерактивна картина", "target": "Інфографіка"},
-		{"source": "форми голосування", "target": "Інфографіка"},
-		{"source": "анімована мапа", "target": "Інфографіка"},
-			{"source": "чек-іни", "target": "анімована мапа"},
-			{"source": "мапа-симуляція", "target": "анімована мапа"},
-			{"source": "real time мапа", "target": "анімована мапа"},
-			{"source": "mind-mapping", "target": "анімована мапа"},
 		
 		
 	{"source": "Інфографіка", "target": "Мультимедійна історія"},
