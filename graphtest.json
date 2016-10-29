@@ -256,6 +256,14 @@
 			{"source": "gofundme", "target": "краудфандингові платформи"},
 			{"source": "kickstarter", "target": "краудфандингові платформи"},
 		{"source": "behance.net", "target": "self-promotion web-sites"},
+	  
+{"source": "Шкідливий контент", "target": "Дані"},
+		{"source": "fishing-site", "target": "Шкідливий контент"},
+		{"source": "spam", "target": "Шкідливий контент"},
+		{"source": "doorway page", "target": "Шкідливий контент"},
+		{"source": "рекламний банер", "target": "spam"},
+		{"source": "spam", "target": "spam"},
+		{"source": "spam", "target": "Шкідливий контент"},
 		
 	{"source": "Інфографіка", "target": "Мультимедійна історія"},
 	{"source": "інтерактивна мультимедійна історія", "target": "Мультимедійна історія"},
