@@ -255,48 +255,8 @@
 		
 		{"source": "інтерактивна мапа", "target": "Інфографіка"},
 			{"source": "звукова мапа", "target": "інтерактивна мапа"},
-			{"source": "звукова мапа", "target": "Звук"},
+			{"source": "звукова мапа", "target": "Звук"}
 	
-	{"source": "self-promotion web-sites", "target": "Дані"},
-		{"source": "dribble", "target": "self-promotion web-sites"},
-		{"source": "краудфандингові платформи", "target": "self-promotion web-sites"},
-			{"source": "спільнокошт", "target": "краудфандингові платформи"},
-			{"source": "gofundme", "target": "краудфандингові платформи"},
-			{"source": "kickstarter", "target": "краудфандингові платформи"},
-		{"source": "behance.net", "target": "self-promotion web-sites"},
-		
-		{"source": "Шкідливий контент", "target": "Дані"},
-		{"source": "fishing-site", "target": "Шкідливий контент"},
-		{"source": "spam", "target": "Шкідливий контент"},
-		{"source": "doorway page", "target": "Шкідливий контент"},
-		{"source": "рекламний банер", "target": "spam"},
-		{"source": "spam", "target": "spam"},
-		{"source": "spam", "target": "Шкідливий контент"},
-		
-	{"source": "Дата-візулізація", "target": "Дані"},	
-	{"source": "dataviz website", "target": "Дата-візулізація"},	
-	{"source": "2D Area", "target": "dataviz website"},
-	{"source": "Multidementional", "target": "dataviz website"},
-	{"source": "Network", "target": "dataviz website"},
-	{"source": "Network", "target": "self-promotion web-sites"},
-		
-		
-	{"source": "Інфографіка", "target": "Мультимедійна історія"},
-	{"source": "інтерактивна мультимедійна історія", "target": "Мультимедійна історія"},
-		{"source": "інтерактивний нон-фікшн", "target": "інтерактивна мультимедійна історія"},
-			{"source": "іммерсивний сторітеллінг", "target": "інтерактивний нон-фікшн"},
-		{"source": "Трансмедійний стортелінг", "target": "інтерактивна мультимедійна історія"},
-		{"source": "Мультимедійна гра", "target": "відеогра"},
-			{"source": "інтерактивні тести", "target": "Мультимедійна гра"},
-				{"source": "Guessing Tools", "target": "інтерактивні тести"},
-			{"source": "Інтерактивний інфотейнмент", "target": "Мультимедійна гра"},
-				{"source": "Вікторини", "target": "Інтерактивний інфотейнмент"},
-				{"source": "Турніри", "target": "Інтерактивний інфотейнмент"},
-				{"source": "Flash-ігри", "target": "Інтерактивний інфотейнмент"},
-			
-		{"source": "інтерактивна графічна новела", "target": "інтерактивна мультимедійна історія"},
-		{"source": "відеогра", "target": "інтерактивна мультимедійна історія"}
-	
-	
+
   ]
 }
