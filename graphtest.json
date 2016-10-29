@@ -7,7 +7,6 @@
 {"id": "Мультимедійна історія", "group": 13},
     {"id": "Інфографіка", "group": 10},
     {"id": "Блогінг", "group": 10},
-{"id": "інфографіка"},
 {"id": "інтерактивна мапа"},
 {"id": "анімована мапа", "group": 6},
 {"id": "mind-mapping"},
@@ -41,7 +40,6 @@
 {"id": "мапа-симуляція"},
 {"id": "іммерсивний сторітеллінг"},
 {"id": "real time мапа"},
-{"id": "блогінг"},
 {"id": "влог", "group": 8},
 {"id": "корпоративний блог"},
 {"id": "редакційний блог"},
@@ -136,7 +134,11 @@
 	{"source": "ASCI-арт", "target": "Текст"},
 		{"source": "ASCI-арт", "target": "Образ"},
 	{"source": "Landing page", "target": "Текст"},
+	{"source": "Вікіпедія", "target": "Текст"},
+		{"source": "Вікіпедія", "target": "Дані"},
+		{"source": "Вікіпедія", "target": "wiki-реальність"},
 	{"source": "хештег", "target": "Текст"},
+		{"source": "твіт", "target": "хештег"},
 	{"source": "лонгрід", "target": "Текст"},
 	{"source": "Інтернет-листівки", "target": "Звук"},
 		{"source": "Інтернет-листівки", "target": "Образ"},
@@ -209,6 +211,9 @@
 			 {"source": "vine", "target": "влог"},	
 			 
 	 {"source": "Образ", "target": "Мультимедійна історія"},
+	 {"source": "twitter cards", "target": "Мультимедійна історія"},
+		{"source": "twitter cards", "target": "твіт"},
+	 
 	 {"source": "анімована книга", "target": "Образ"},
 	 {"source": "фотожаба", "target": "Образ"},
 	 {"source": "веб-комікс", "target": "Образ"},
@@ -268,6 +273,12 @@
 		{"source": "spam", "target": "spam"},
 		{"source": "spam", "target": "Шкідливий контент"},
 		
+	{"source": "Дата-візулізація", "target": "Дані"},	
+	{"source": "dataviz website", "target": "Дата-візулізація"},	
+	{"source": "2D Area", "target": "dataviz website"},
+	{"source": "Multidementional", "target": "dataviz website"},
+	{"source": "Network", "target": "dataviz website"},
+	{"source": "Network", "target": "self-promotion web-sites"},
 		
 		
 	{"source": "Інфографіка", "target": "Мультимедійна історія"},
