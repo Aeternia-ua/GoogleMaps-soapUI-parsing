@@ -210,9 +210,6 @@
 			 {"source": "відео-конференції", "target": "влог"},	
 			 {"source": "vine", "target": "влог"},	
 			 
-	 {"source": "Образ", "target": "Мультимедійна історія"},
-	 {"source": "twitter cards", "target": "Мультимедійна історія"},
-		{"source": "twitter cards", "target": "твіт"},
 	 
 	 {"source": "анімована книга", "target": "Образ"},
 	 {"source": "фотожаба", "target": "Образ"},
