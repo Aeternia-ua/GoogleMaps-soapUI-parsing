@@ -272,7 +272,14 @@
 		{"source": "рекламний банер", "target": "spam"},
 		{"source": "spam", "target": "spam"},
 		{"source": "spam", "target": "Шкідливий контент"},
-	
+		
+	{"source": "Дата-візулізація", "target": "Дані"},	
+	{"source": "dataviz website", "target": "Дата-візулізація"},	
+	{"source": "2D Area", "target": "dataviz website"},
+	{"source": "Multidementional", "target": "dataviz website"},
+	{"source": "Network", "target": "dataviz website"},
+	{"source": "Network", "target": "self-promotion web-sites"},
+		
 		
 	{"source": "Інфографіка", "target": "Мультимедійна історія"},
 	{"source": "інтерактивна мультимедійна історія", "target": "Мультимедійна історія"},
