@@ -261,6 +261,13 @@
 		{"source": "fishing-site", "target": "Шкідливий контент"},
 		{"source": "spam", "target": "Шкідливий контент"},
 		{"source": "рекламний банер", "target": "spam"},
+	  
+{"source": "Дата-візулізація", "target": "Дані"},	
+	{"source": "dataviz website", "target": "Дата-візулізація"},	
+	{"source": "2D Area", "target": "dataviz website"},
+	{"source": "Multidementional", "target": "dataviz website"},
+	{"source": "Network", "target": "dataviz website"},
+	{"source": "Network", "target": "self-promotion web-sites"},
 		
 	{"source": "Інфографіка", "target": "Мультимедійна історія"},
 	{"source": "інтерактивна мультимедійна історія", "target": "Мультимедійна історія"},
