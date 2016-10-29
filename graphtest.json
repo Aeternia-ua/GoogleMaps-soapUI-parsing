@@ -128,13 +128,17 @@
 {"id": "Трансмедійний стортелінг"}
 
  ],
-  "links": [
+ "links": [
     {"source": "Текст", "target": "Мультимедійна історія"},
 	
 	{"source": "ASCI-арт", "target": "Текст"},
 		{"source": "ASCI-арт", "target": "Образ"},
 	{"source": "Landing page", "target": "Текст"},
+	{"source": "Вікіпедія", "target": "Текст"},
+		{"source": "Вікіпедія", "target": "Дані"},
+		{"source": "Вікіпедія", "target": "wiki-реальність"},
 	{"source": "хештег", "target": "Текст"},
+		{"source": "твіт", "target": "хештег"},
 	{"source": "лонгрід", "target": "Текст"},
 	{"source": "Інтернет-листівки", "target": "Звук"},
 		{"source": "Інтернет-листівки", "target": "Образ"},
@@ -188,8 +192,18 @@
 				{"source": "Мультимедійний фешн-блог", "target": "Мультимедійна історія"},
 			
 			 {"source": "Periscope", "target": "Текст"},
-	 
-	  			   {"source": "відеоколаж", "target": "влог"},
+			  {"source": "влог", "target": "Блогінг"},
+			  {"source": "Q &amp; A", "target": "влог"},
+			  {"source": "Makeup\\Hair tutorial", "target": "влог"},
+			  {"source": "Haul Video", "target": "влог"},
+			  {"source": "360 VR video", "target": "влог"},
+				{"source": "360 VR video", "target": "іммерсивний сторітеллінг"},
+			  {"source": "reactions video", "target": "влог"},
+			  {"source": "Let's play", "target": "влог"},
+			  {"source": "video diary", "target": "влог"},
+			  {"source": "відео-конференції", "target": "влог"},
+			  
+			   {"source": "відеоколаж", "target": "влог"},
 				{"source": "fail/win compilations", "target": "відеоколаж"},
 				{"source": "video challenges", "target": "відеоколаж"},
 			   {"source": "YouTube creators community", "target": "влог"},
@@ -197,6 +211,9 @@
 			 {"source": "vine", "target": "влог"},	
 			 
 	 {"source": "Образ", "target": "Мультимедійна історія"},
+	 {"source": "twitter cards", "target": "Мультимедійна історія"},
+		{"source": "twitter cards", "target": "твіт"},
+	 
 	 {"source": "анімована книга", "target": "Образ"},
 	 {"source": "фотожаба", "target": "Образ"},
 	 {"source": "веб-комікс", "target": "Образ"},
@@ -248,6 +265,22 @@
 			{"source": "kickstarter", "target": "краудфандингові платформи"},
 		{"source": "behance.net", "target": "self-promotion web-sites"},
 		
+		{"source": "Шкідливий контент", "target": "Дані"},
+		{"source": "fishing-site", "target": "Шкідливий контент"},
+		{"source": "spam", "target": "Шкідливий контент"},
+		{"source": "doorway page", "target": "Шкідливий контент"},
+		{"source": "рекламний банер", "target": "spam"},
+		{"source": "spam", "target": "spam"},
+		{"source": "spam", "target": "Шкідливий контент"},
+		
+	{"source": "Дата-візулізація", "target": "Дані"},	
+	{"source": "dataviz website", "target": "Дата-візулізація"},	
+	{"source": "2D Area", "target": "dataviz website"},
+	{"source": "Multidementional", "target": "dataviz website"},
+	{"source": "Network", "target": "dataviz website"},
+	{"source": "Network", "target": "self-promotion web-sites"},
+		
+		
 	{"source": "Інфографіка", "target": "Мультимедійна історія"},
 	{"source": "інтерактивна мультимедійна історія", "target": "Мультимедійна історія"},
 		{"source": "інтерактивний нон-фікшн", "target": "інтерактивна мультимедійна історія"},
@@ -261,7 +294,8 @@
 				{"source": "Турніри", "target": "Інтерактивний інфотейнмент"},
 				{"source": "Flash-ігри", "target": "Інтерактивний інфотейнмент"},
 			
-		{"source": "інтерактивна графічна новела", "target": "інтерактивна мультимедійна історія"}
+		{"source": "інтерактивна графічна новела", "target": "інтерактивна мультимедійна історія"},
+		{"source": "відеогра", "target": "інтерактивна мультимедійна історія"}
 	
 	
   ]
