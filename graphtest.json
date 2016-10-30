@@ -87,7 +87,7 @@
 {"id": "Google Doodle"},
 {"id": "архів запитань і відповідей (Quora)"},
 {"id": "хроніки"},
-{"id": "Boomerang"},
+{"id": "Boomerang Instagram"},
 {"id": "Guessing Tools"},
 {"id": "чек-іни"},
 {"id": "fail/win compilations"},
@@ -98,7 +98,6 @@
 {"id": "ebook"},
 {"id": "twitter cards"},
 {"id": "Віртуальні тури"},
-{"id": "content &nbsp; site"},
 {"id": "video diary"},
 {"id": "Q &amp; A"},
 {"id": "Haul Video"},
@@ -290,8 +289,12 @@
 		{"source": "інтерактивна графічна новела", "target": "інтерактивна мультимедійна історія"},
 	  
 {"source": "twitter cards", "target": "Мультимедійна історія"},
-		{"source": "twitter cards", "target": "твіт"}
-	
+		{"source": "twitter cards", "target": "твіт"},
+		
+{"source": "Coub'и", "target": "Образ"},
+{"source": "Boomerang Instagram", "target": "стрім"},
+{"source": "Coub'и", "target": "Образ"},
+{"source": "ebook", "target": "Блогінг"}	
 	
   ]
 }
