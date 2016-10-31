@@ -290,7 +290,11 @@
 		{"source": "інтерактивна графічна новела", "target": "інтерактивна мультимедійна історія"},
 	  
 {"source": "twitter cards", "target": "Мультимедійна історія"},
-		{"source": "twitter cards", "target": "твіт"}
+		{"source": "twitter cards", "target": "твіт"},
+	  
+{"source": "Coub'и", "target": "Образ"},
+{"source": "інтерактивна мультимедійна історія", "target": "відеогра"},	
+{"source": "ebook", "target": "Блогінг"}
 	
 	
   ]
